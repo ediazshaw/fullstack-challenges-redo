@@ -1,6 +1,6 @@
 ## Welcome!
 
-This platform contains all the exercises you'll cover during your training at [Le Wagon, the French innovative Coding School](http://www.lewagon.com), welcome aboard!
+Here I am redoing all the exercises from Le Wagon with the best code I can do. This way I can compare my progress versus what I did in the repo fullstack-challenges
 
 ## General overview
 
